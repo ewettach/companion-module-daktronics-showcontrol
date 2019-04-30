@@ -1,0 +1,17 @@
+{
+  "name": "daktronics-showcontrol",
+  "version": "1.0.0",
+  "keywords": [
+    "Graphics"
+  ],
+  "manufacturer": "Daktronics",
+  "product": "Show Control Client",
+  "shortname": "daktronics-showcontrol",
+  "author": "Eddie Wettach <ewettach@gmail.com>",
+  "description": "Daktronics Show Control Client module for sending Daktronics commands with Companion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT"
+}
